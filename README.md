@@ -57,8 +57,7 @@ pyinstaller --onefile --noconsole ^--name TaskbarColorPicker ^--icon=icon.png ^-
 ## ⭐ 发行版说明 | Release Notes
 本项目提供 已编译 exe 版本，无需 Python 环境，下载即可使用。
 ##### 下载应用最新版本
-- [Windows 版](https://github.com/HLBQ/color-picker/releases/tag/v1.0)
-
+- [Windows 版](https://github.com/HLBQ/Taskbar-Color-Picker/releases/tag/1.0)
 
 ## ⭐ 许可证 | License
 本项目基于 [MIT License](LICENSE.txt) 开源。
